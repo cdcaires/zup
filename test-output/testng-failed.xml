@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test name="Default test(failed)">
     <classes>
-      <class name="zupDesafio.zupDesafio.ZupDesafioTest">
+      <class name="testsZup.DesafioTestZup">
         <methods>
-          <include name="setUpTest"/>
-          <include name="zupDesafio"/>
+          <include name="tearDownTest"/>
+          <include name="launchBrowser"/>
+          <include name="zupDesafioBeowulfSemEstoque"/>
         </methods>
-      </class> <!-- zupDesafio.zupDesafio.ZupDesafioTest -->
+      </class> <!-- testsZup.DesafioTestZup -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
