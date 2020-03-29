@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-29T05:13:01Z" name="Default suite" finished-at="2020-03-29T05:13:09Z" duration-ms="8483">
+    <groups>
+    </groups>
+    <test started-at="2020-03-29T05:13:01Z" name="Default test" finished-at="2020-03-29T05:13:09Z" duration-ms="8483">
+      <class name="zupDesafio.zupDesafio.ZupDesafioTest">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:zupDesafio.zupDesafio.ZupDesafioTest@4d5b6aac]" started-at="2020-03-29T02:13:01Z" name="setUpTest" finished-at="2020-03-29T02:13:02Z" duration-ms="1000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="zupDesafio()[pri:0, instance:zupDesafio.zupDesafio.ZupDesafioTest@4d5b6aac]" started-at="2020-03-29T02:13:02Z" name="zupDesafio" description="Teste Desafio Zup" finished-at="2020-03-29T02:13:09Z" duration-ms="7461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zupDesafio -->
+      </class> <!-- zupDesafio.zupDesafio.ZupDesafioTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
